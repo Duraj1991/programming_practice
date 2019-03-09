@@ -1,0 +1,13 @@
+Git Command -
+
+1. create a folder in own directory
+2. go to your folder from command prompt of git
+3. configure git --- (git config --global user.name "Your repository name")
+4. (git config --global user.email your email id)
+5. clone the git -- (git clone (url ))
+6. create new file in your git repository in your drive
+7. write something in the file and save it
+8. add the file in the git -- git add filename
+9. commit the file ---- git commit -m " comment " file name
+10. transfer file in the git --- git push -u origin master
+11. Your username and password
